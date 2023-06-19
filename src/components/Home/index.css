@@ -1,0 +1,16 @@
+.hm-pic {
+  height: 350px;
+  width: 350px;
+}
+.hm-head {
+  color: black;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
